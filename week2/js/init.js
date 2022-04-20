@@ -24,7 +24,10 @@ add_marker(34.044750, -118.442680, "<h2>Best Friends West LA Pet Adoption Center
 add_marker(33.852280, -118.138120, "<h2>Found Animals Adopt & Shop Lakewood</h2>")
 add_marker(33.8572131, -117.9260034, "<h2>Cats in Need Fullerton</h2>")
 
-
+// create a function to create buttons 
+function createButtons(latitude, longitude, title){
+    const newButton = document.createElement("button");
+}
 
 
 
